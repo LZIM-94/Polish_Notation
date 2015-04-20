@@ -1,0 +1,4 @@
+J:\PolishCalculator\PolishLibrary\bin\Debug\PolishLibrary.dll
+J:\PolishCalculator\PolishLibrary\bin\Debug\PolishLibrary.pdb
+J:\PolishCalculator\PolishLibrary\obj\Debug\PolishLibrary.dll
+J:\PolishCalculator\PolishLibrary\obj\Debug\PolishLibrary.pdb
